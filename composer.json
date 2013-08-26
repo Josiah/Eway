@@ -1,6 +1,6 @@
 {
-    "name": "josiah/eway",
-    "description": "eWAY Payment Gateway API Client",
+    "name": "josiah/eway-rapid",
+    "description": "eWAY Rapid API Client",
     "license": "MIT",
     "authors": [
         {
@@ -12,6 +12,9 @@
     "prefer-stable": true,
     "require": {
 
+    },
+    "autoload": {
+        "psr-0": { "Eway\\Rapid": "src" }
     },
     "extra": {
         "branch-alias": {
