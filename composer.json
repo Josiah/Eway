@@ -8,7 +8,14 @@
             "email": "josiah@jjs.id.au"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
 
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
     }
 }
