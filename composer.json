@@ -1,0 +1,14 @@
+{
+    "name": "josiah/eway",
+    "description": "eWAY Payment Gateway API Client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josiah",
+            "email": "josiah@jjs.id.au"
+        }
+    ],
+    "require": {
+
+    }
+}
